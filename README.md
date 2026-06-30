@@ -73,10 +73,17 @@ I streamline development and deployment workflows by containerizing applications
 
 <p align="center">
   <a href="https://github.com/mohammed98noman-rgb">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammed98noman-rgb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=mohammed98noman-rgb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"
+    />
   </a>
+
   <a href="https://github.com/mohammed98noman-rgb">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed98noman-rgb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed98noman-rgb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&langs_count=8"
+    />
   </a>
 </p>
 
@@ -86,7 +93,9 @@ I streamline development and deployment workflows by containerizing applications
 
 <p align="center">
   <a href="https://github.com/mohammed98noman-rgb">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed98noman-rgb&theme=tokyonight&hide_border=true&background=0D1117" />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed98noman-rgb&theme=tokyonight&hide_border=true&background=0D1117"
+    />
   </a>
 </p>
 
